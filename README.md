@@ -3,6 +3,6 @@ Just a CFG (Context-Free Grammer) Developer created by Parv Ashwani but is a hea
 
 <hr>
 
-<h3>
+<h3 align="center">
   <a href="https://academicgit.github.io/CFG-DEV/">LIVE DEMO</a>
 </h3>
